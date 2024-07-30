@@ -5,8 +5,8 @@ and comes with a very minimal shell for building an app.
 
 ### Running this example
 
-To run the provided example, you can use `npm start` command.
+1. First run `npm install`
 
-```bash
-npm start
-```
+2. `npm run build` && `npx cap sync`
+
+3. `npx cap open ios` and run the app
