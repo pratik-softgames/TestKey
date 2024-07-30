@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.testkey",
+  "appName": "TestKey",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
